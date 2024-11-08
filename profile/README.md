@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 We are WIP
+
+Texpile is currently planned to be fully opensource under AGPL after reaching a inital stable phase
 <!--
 
 **Here are some ideas to get you started:**
